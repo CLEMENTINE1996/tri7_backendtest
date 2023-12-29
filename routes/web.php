@@ -16,7 +16,7 @@ use App\Http\Controllers\AuthLoginRegisterController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('login');
 });
 
 Route::controller(AuthLoginRegisterController::class)->group(function() {
