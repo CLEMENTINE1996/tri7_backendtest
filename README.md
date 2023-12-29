@@ -3,7 +3,7 @@ CRUD APPLICATION USING LARAVEL AND REACT JS WITH REST API
 The database of this application are located in the database folder.
 <br>
 
-The application are using RESTAPI for with with authentication. To access its api routes, simply install this application and use the api points below:
+The application have GUI on performing CRUD commands for the employee data but you can also use its RESTAPI commands with authentication. To access its api routes, simply install this application and use the api points below:
 
 1. POST = your_url + "api/employees".<br>
 2. GET = your_url + "api/employees".<br>
