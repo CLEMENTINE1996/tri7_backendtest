@@ -15,3 +15,19 @@ For the authentication, use
 
 1. POST = your_url + "api/login".<br>
 with "email" and "password" as body message. Then save your Bearer Token for the above commands.
+
+for user accounts, use the following below:
+
+Manager
+email: manager@gmail.com
+password: 1234
+<br>
+Web Designer
+email: webdesigner@gmail.com
+password: 1234
+<br>
+Web Developer
+email: webdeveloper@gmail.com
+password: 1234
+
+
