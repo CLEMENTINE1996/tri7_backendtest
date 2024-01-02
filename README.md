@@ -1,6 +1,6 @@
 CRUD APPLICATION USING LARAVEL WITH REST API
 <br>
-The database of this application are located in the database folder.
+The database of this application is located in the database folder.
 <br>
 
 The application have GUI on performing CRUD commands for the employee data but you can also use its RESTAPI commands with authentication. To access its api routes, simply install this application and use the api points below:
