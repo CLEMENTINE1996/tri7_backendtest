@@ -1,4 +1,4 @@
-CRUD APPLICATION USING LARAVEL AND REACT JS WITH REST API
+CRUD APPLICATION USING LARAVEL WITH REST API
 <br>
 The database of this application are located in the database folder.
 <br>
